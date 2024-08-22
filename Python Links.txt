@@ -1,0 +1,17 @@
+https://www.programiz.com/python-programming/examples
+
+https://www.scaler.com/topics/python/
+
+https://www.scaler.com/topics/python/string-slicing-in-python/ 
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+https://www.infoworld.com/article/2335099/6-generative-ai-python-projects-to-run-now.html (GenAI)
+
+https://mahaboob.medium.com/developing-generative-ai-using-python-a-step-by-step-guide-e7bd5b973d7f(GenAI)
+
+https://www.geeksforgeeks.org/pandas-ai/ (GenAI)
+
+https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain
+
+https://www.datacamp.com/blog/5-projects-you-can-build-with-generative-ai-models
